@@ -1,0 +1,18 @@
+{
+   "parameters": {
+        "local_server": true,
+        "local_uri": "mysql://root:@localhost/clean code",
+        "production_uri": "mysql://root:@localhost/clean code",
+        "fb_url": "https://facebook.com/cleancode",
+        "gh_url": "https://github.com/cleancode",
+        "tweet_url": "https://x.com/cleancode",
+        "gmail-user": "padmanabhakulkarni90@gmail.com",
+        "gmail-password": "jyxv mxnu jxam nkdf ",
+         "recipients":"muralidharkulkarni90@gmail.com",
+        "no_of_posts": 3,
+        "login_image":"login.jpg",
+        "admin_user":"padmanabha",
+        "admin_password": "12345678",
+     "upload_location":"C:\\Users\\padmanabha kulkarni\\PycharmProjects\\pythonProject16\\static"
+   }
+}
