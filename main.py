@@ -19,19 +19,19 @@ except (FileNotFoundError, json.JSONDecodeError, KeyError):
     # Handle errors loading the JSON file or extracting parameters
     parameters = {
         'local_server': True,
-        'local_uri': 'mysql://root:@localhost/clean code',
-        'production_uri': 'mysql://root:@localhost/clean code',
+        'local_uri': 'mysql://root:@localhost/data_base_name',
+        'production_uri': 'mysql://root:@localhost/data_base_name',
         'fb_url': 'https://facebook.com/cleancode',
         'gh_url': 'https://github.com/cleancode',
         'tweet_url': 'https://x.com/cleancode',
-        'gmail-user': 'padmanabhakulkarni90@gmail.com',
-        'gmail-password': 'jyxv mxnu jxam nkdf',
-        "recipients": "muralidharkulkarni90@gmail.com",
+        'gmail-user': 'your mail',
+        'gmail-password': '2Factor authentication password from gmail ',
+        "recipients": "recipents mail id",
         "no_of_posts": 5,
         "login_image": "login.jpg",
-        "admin_user": "padmanabha",
-        "admin_password": "12345678",
-        "upload_location": "C:\\Users\\padmanabha kulkarni\\PycharmProjects\\pythonProject16\\static"
+        "admin_user": "admin_name",
+        "admin_password": "set your password",
+        "upload_location": "upload location"
     }
 
 local_server = True
